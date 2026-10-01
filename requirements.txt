@@ -1,0 +1,11 @@
+# Dev path (runs today on a laptop CPU)
+faster-whisper
+gradio
+
+# Qualcomm AI Hub path (cloud compile / profile / export)
+qai-hub
+qai-hub-models
+
+# Optional: local LLM notes backend (dev path only — heavy download)
+# transformers
+# torch

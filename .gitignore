@@ -1,0 +1,44 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secrets — never commit tokens
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded dev model weights (fetch with scripts/download_models.py)
+models/
+*.bin
+*.onnx
+*.pt
+
+# Compiled NPU artifacts (produced by the AI Hub export flow)
+/genie_bundle/
+artifacts/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Demo outputs
+demo/*.wav
+demo/*.mp3

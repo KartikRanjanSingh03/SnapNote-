@@ -1,0 +1,29 @@
+# Demo lecture script — Photosynthesis (for TTS synthesis or read-aloud)
+
+Use with scripts/generate_sample_audio.py, or read aloud to record a demo clip.
+
+---
+
+Good morning everyone. Today we are going to talk about photosynthesis, which
+is the process by which green plants convert light energy into chemical energy.
+
+Photosynthesis is defined as the conversion of carbon dioxide and water into
+glucose and oxygen, using sunlight as the energy source. The overall equation
+is six molecules of carbon dioxide plus six molecules of water, in the presence
+of light, giving one molecule of glucose and six molecules of oxygen.
+
+This happens in the chloroplasts of plant cells. Chlorophyll is the pigment
+that captures sunlight, and it is the reason leaves appear green.
+
+There are two stages. The light-dependent reactions take place in the thylakoid
+membranes and produce ATP and NADPH. The Calvin cycle, also called the
+light-independent reactions, takes place in the stroma and uses that ATP and
+NADPH to fix carbon dioxide into glucose.
+
+Remember that water is split during the light reactions, and this is where the
+oxygen we breathe comes from. Make sure you revise the overall equation before
+the test, because I will test you on balancing it.
+
+Finally, note that the rate of photosynthesis depends on light intensity,
+carbon dioxide concentration, and temperature. These are called limiting
+factors, which means that increasing any one of them only helps up to a point.
